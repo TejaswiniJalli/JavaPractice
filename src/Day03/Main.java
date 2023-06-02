@@ -1,3 +1,5 @@
+package Day03;
+
 class Product {
     private double price; // private = restricted access
 
