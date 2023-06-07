@@ -1,4 +1,4 @@
-package Day04;
+package Day0405;
 
 final class Final {
     private final int age = 22;

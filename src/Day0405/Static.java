@@ -1,4 +1,4 @@
-package Day04;
+package Day0405;
 class Age {
     private static int age;
 

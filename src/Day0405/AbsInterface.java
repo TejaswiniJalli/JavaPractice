@@ -1,4 +1,4 @@
-package Day04;
+package Day0405;
 interface One{
     public abstract int MultiplyTwo(int n1,int n2);
 }

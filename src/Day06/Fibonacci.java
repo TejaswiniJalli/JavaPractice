@@ -1,4 +1,4 @@
-package Day05;
+package Day06;
 class Fib_Series {
     public static String fib(int n) {
         int preNumber = 0;
@@ -6,9 +6,7 @@ class Fib_Series {
 
         System.out.print("Fibonacci Series of " + n + " numbers:");
 
-        for (
-                int i = 1;
-                i <= n; ++i) {
+        for (int i = 1;i <= n; ++i) {
             System.out.print(preNumber + " ");
             int sum = preNumber + nextNumber;
             preNumber = nextNumber;

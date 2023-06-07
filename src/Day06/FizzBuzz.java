@@ -1,4 +1,4 @@
-package Day05;
+package Day06;
 
 
 class Fizz_Buzz

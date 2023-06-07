@@ -1,4 +1,4 @@
-package Day05;
+package Day06;
 
 class reverseDigits{
     int reverse_digits(int n) {

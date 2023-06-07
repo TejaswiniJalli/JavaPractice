@@ -1,4 +1,4 @@
-package Day04;
+package Day0405;
 class Parent {
    private String name;
    public Parent(String name){

@@ -1,4 +1,4 @@
-package Day05;
+package Day06;
 class AgeCheck{
     String age_Check(int age) {
         if(age>=13 && age<=19){
