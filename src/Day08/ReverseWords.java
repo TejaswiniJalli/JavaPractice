@@ -14,6 +14,7 @@ public class ReverseWords {
                     reverseWord += word.charAt(j);
                 }
                 reversedString +=reverseWord + " ";
+                reversedString.strip();
             }
             return reversedString;
         }
