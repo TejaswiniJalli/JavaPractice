@@ -1,0 +1,35 @@
+Introdution:
+I have over 8 years of experience as a full-stack developer.
+I've worked on building all the layers of a business application, like the front-end,middleware, backend, and databases.
+But I'm more into back-end application development. It’s like a 80-20 split, 80% backend, and 20% frontend.
+I have working experience on back-end technologies like Java, Spring, spring Boot with microservices and other frameworks
+like Hibernate, spring cloud etc.
+I have also done unit testing with Junit and Mockito.Apart from that, I have worked on SQL-based databases like Oracle,
+MySQL and SQL Server and I have a little bit of experience working with NoSQL databases like DynamoDB.
+Coming to the AWS side of things, apart from DynamoDB, I do have experience working on EC2, ECS, ECR, s3 buckets, RDS,
+and IAM security groups etc
+I've used tools like Sonar Lint, Sonar Cube for code quality and have used Swagger for documentation mainly.
+And coming to the front-end part I've worked with HTML, CSS, JavaScript, Bootstrap, Angular using TypeScript,
+and testing frameworks like Jasmine and Karma. So, at the top level, my day-to-day work looks like this,
+like more of the backend, and a little bit on the UI side also.
+
+
+
+About current project:
+I am currently  working as a  Stack Java Developer with AWS Cloud from the past 8 years.
+In my current project We are designing an online portal to make it easy for policyholders to pay bills,
+make policy adjustments, view policy documents, and take care of other account management tasks.
+When I came here, we have a big monolithic (all in one piece, to make one change complete application will be down and code is complex)
+application, which we are breaking down it into small microservices.
+We are using HTML, CSS, Bootstrap, JavaScript, and frameworks like Angular and React for designing user
+interface which is particularly front-end.For Developing microservices and Rest API, we are using spring boot,
+Spring MVC, Spring JDBC and spring IOC. We are using Spring Boot 2.0 and Java 8. We are using Spring JDBC for
+accessing data sources without exception handling and We use Spring IOC for data injection to make the code loosely coupled.
+We are using Oracle database in this current project and I am writing some complex, co-related and non-co-related SQL queries,
+stored procedures, functions and triggers.For inter microservices communication here we are using ActiveMQ, For securely
+distributing RESTful web services we are using Spring /Security to validate a user on server and OAuth2 to manage
+authentication tokens. With Oauth2 only authenticated users and applications will get a valid access token and
+using that token the user can access authorized APIs on server. If he does not have valid authentication,
+even though he comes to our page he will not be able access any data.For unit testing of backend services, we are using Junit,
+Mockito to mock all the dependencies to test a particular class and verify the behavior of that specific class under different
+conditions.
