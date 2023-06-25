@@ -16,7 +16,7 @@ public class FindTwoNumbers {
             map.put(nums[i], i);
         }
 
-        return new int[] {}; // No two numbers found
+        return new int[] {};
     }
 
     public static void main(String[] args) {
